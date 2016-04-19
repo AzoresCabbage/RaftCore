@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaftCore", "RaftCore\RaftCore.csproj", "{F494D832-77DE-4871-8A92-046C2872D4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientTest", "ClientTest\ClientTest.csproj", "{F39266EB-2B75-4B40-A7A5-4837B852405E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerTest", "ServerTest\ServerTest.csproj", "{694E511B-4DBF-4875-8404-4D7AB2F96B78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F494D832-77DE-4871-8A92-046C2872D4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F494D832-77DE-4871-8A92-046C2872D4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F494D832-77DE-4871-8A92-046C2872D4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F494D832-77DE-4871-8A92-046C2872D4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F39266EB-2B75-4B40-A7A5-4837B852405E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39266EB-2B75-4B40-A7A5-4837B852405E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39266EB-2B75-4B40-A7A5-4837B852405E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39266EB-2B75-4B40-A7A5-4837B852405E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694E511B-4DBF-4875-8404-4D7AB2F96B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694E511B-4DBF-4875-8404-4D7AB2F96B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694E511B-4DBF-4875-8404-4D7AB2F96B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694E511B-4DBF-4875-8404-4D7AB2F96B78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
